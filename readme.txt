@@ -26,7 +26,7 @@ app.py # Main app logic
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/chatbot_project.git
+git clone 
 cd chatbot_project
 
 python -m venv venv
