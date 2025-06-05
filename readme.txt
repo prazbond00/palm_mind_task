@@ -27,6 +27,8 @@ app.py # Main app logic
 
 ```bash
 git clone https://github.com/prazbond00/palm_mind_task.git
+create .env file 
+put your Open_Api_Key
 cd chatbot_project
 
 python -m venv venv
