@@ -26,7 +26,7 @@ app.py # Main app logic
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/prazbond00/palm_mind_task.git
 cd chatbot_project
 
 python -m venv venv
