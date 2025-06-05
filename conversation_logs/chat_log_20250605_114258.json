@@ -1,0 +1,57 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "what information does the uploaded file ocntans"
+        },
+        {
+            "role": "bot",
+            "content": "I apologize for the confusion, but it seems there was a misunderstanding. To answer your question about the contents of the uploaded file, I would need to analyze the file first. Could you please provide more specific details about the file or the information you are looking for?"
+        },
+        {
+            "role": "user",
+            "content": "analyze the file and give me its summary in 100 words"
+        },
+        {
+            "role": "bot",
+            "content": "The document is about Hadoop, a framework for distributed processing of large data sets across computer clusters. It scales from single servers to thousands of machines, each providing local computation and storage. A key component is the Hadoop File System (HDFS), designed for large-scale distributed data processing. It allows storage of large data sets (e.g., 100 TB) as a single file, replicates data for availability, and distributes it over multiple machines for parallel processing. HDFS applications require a write-once-read-many access model for files, simplifying data coherency issues and enabling high throughput data access."
+        },
+        {
+            "role": "user",
+            "content": "i want to book an appointment"
+        },
+        {
+            "role": "bot",
+            "content": "Sure, I can help you with that. Could you please provide me with the details of the appointment you want to book?"
+        },
+        {
+            "role": "user",
+            "content": "can you book an appointment next suday"
+        },
+        {
+            "role": "bot",
+            "content": "I have successfully booked your appointment for next Sunday."
+        },
+        {
+            "role": "user",
+            "content": "call me later please"
+        },
+        {
+            "role": "bot",
+            "content": "Sure, I have scheduled a call for you. You will be contacted later."
+        }
+    ],
+    "call_forms": [
+        {
+            "name": "prashad",
+            "email": "abc@email.com",
+            "phone": "+9779851208412"
+        }
+    ],
+    "appointments": [
+        {
+            "name": "prashad",
+            "date": "2025-06-06"
+        }
+    ]
+}

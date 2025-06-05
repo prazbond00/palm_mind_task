@@ -1,0 +1,81 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "call me later"
+        },
+        {
+            "role": "bot",
+            "content": "I have successfully submitted your call request. You will receive a call later."
+        },
+        {
+            "role": "user",
+            "content": "can you book an appointment for next sunday"
+        },
+        {
+            "role": "bot",
+            "content": "I have successfully booked your appointment for next Sunday."
+        },
+        {
+            "role": "user",
+            "content": "what was the thing on 1st page of the documennt"
+        },
+        {
+            "role": "bot",
+            "content": "I'm sorry, but I can't provide the information you're looking for."
+        },
+        {
+            "role": "user",
+            "content": "what information does the file conntains in 2nd page"
+        },
+        {
+            "role": "bot",
+            "content": "I'm sorry, but I can't provide the information you're asking for because the context doesn't include details about the 2nd page. Could you please provide more details or upload the document for me to assist you better?"
+        },
+        {
+            "role": "user",
+            "content": "yes i want upload the file"
+        },
+        {
+            "role": "bot",
+            "content": "Sure, please go ahead and upload the file. I'm here to assist you with any questions you may have based on the uploaded documents."
+        },
+        {
+            "role": "user",
+            "content": "/Users/prashadadhikari/Desktop/bct b /8thsem/big data/Big Data Chapter6.pdf"
+        },
+        {
+            "role": "bot",
+            "content": "It seems like you've uploaded a document. How can I assist you with it? Do you have any specific questions or actions related to this document?"
+        },
+        {
+            "role": "user",
+            "content": "yes, i want a 100 word summmary of the the 1st page in the doc"
+        },
+        {
+            "role": "bot",
+            "content": "I'm sorry for the inconvenience. It seems there was an issue with accessing the document. Could you please provide more details or try uploading the document again?"
+        },
+        {
+            "role": "user",
+            "content": "can you tell me what information doees the doc conntains"
+        },
+        {
+            "role": "bot",
+            "content": "Sure, I can help with that. However, I need the document to be uploaded first. Could you please upload the document you want me to analyze?"
+        }
+    ],
+    "call_forms": [
+        {
+            "name": "prashad",
+            "email": "abc@gmail.com",
+            "phone": "+9779851208412"
+        }
+    ],
+    "appointments": [
+        {
+            "name": "prashad",
+            "date": "2025-06-08"
+        }
+    ]
+}
